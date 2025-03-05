@@ -1,0 +1,52 @@
+# http://docs.firecrawl.dev llms.txt
+
+- [Firecrawl API Documentation](https://docs.firecrawl.dev/introduction): Firecrawl API service for crawling and converting URLs to markdown.
+- [Web Data Integrations](https://docs.firecrawl.dev/integrations): Explore various integrations for web data extraction tools.
+- [Firecrawl API Documentation](https://docs.firecrawl.dev/introduction): Firecrawl API service for crawling and converting URLs to markdown.
+- [Data Extraction Tool](https://docs.firecrawl.dev/features/extract): Easily extract structured data from multiple URLs or domains.
+- [Firecrawl and CrewAI Integration](https://docs.firecrawl.dev/integrations/crewai): Integrate Firecrawl tools with CrewAI for AI agents.
+- [Firecrawl API Documentation](https://docs.firecrawl.dev/introduction): Firecrawl API service for crawling and converting URLs to markdown.
+- [Firecrawl Langchain Integration](https://docs.firecrawl.dev/integrations/langchain): Integrate Firecrawl with Langchain for web scraping.
+- [Firecrawl Go SDK](https://docs.firecrawl.dev/sdks/go): Comprehensive guide for using Firecrawl Go SDK effectively.
+- [Firecrawl Contribution Guide](https://docs.firecrawl.dev/contributing/guide): Instructions for contributing and running Firecrawl locally.
+- [Dify Integration Guide](https://docs.firecrawl.dev/integrations/dify): Learn to scrape and import data into Dify workflows.
+- [Search and Scrape](https://docs.firecrawl.dev/features/search): Effortlessly search and scrape web data with Firecrawl.
+- [Firecrawl Python SDK](https://docs.firecrawl.dev/sdks/python): Comprehensive guide for using Firecrawl Python SDK effectively.
+- [Firecrawl Launch Week](https://docs.firecrawl.dev/launch-week): Explore Firecrawl's Launch Week features and enhancements.
+- [Firecrawl Langflow Integration](https://docs.firecrawl.dev/integrations/langflow): Learn to integrate Firecrawl with Langflow for web scraping.
+- [Firecrawl API Service](https://docs.firecrawl.dev/v0/introduction): API service for crawling URLs and generating markdown.
+- [Firecrawl Rust SDK](https://docs.firecrawl.dev/sdks/rust): Comprehensive guide for using Firecrawl Rust SDK effectively.
+- [Website Crawling Features](https://docs.firecrawl.dev/features/crawl): Comprehensive website crawling and data extraction features.
+- [Firecrawl Node SDK Guide](https://docs.firecrawl.dev/sdks/node): Comprehensive guide for using Firecrawl Node SDK effectively.
+- [Website Mapping Tool](https://docs.firecrawl.dev/features/map): Easily map website URLs for scraping and exploration.
+- [Firecrawl Flowise Integration](https://docs.firecrawl.dev/integrations/flowise): Integrate Firecrawl with Flowise for web data workflows.
+- [Web Scraping Features](https://docs.firecrawl.dev/features/scrape): Firecrawl enables web scraping and data extraction efficiently.
+- [Firecrawl V1 API](https://docs.firecrawl.dev/v1-welcome): Explore Firecrawl V1's enhanced API features and usage.
+- [Camel AI Integration](https://docs.firecrawl.dev/integrations/camelai): Integrate Camel AI with Firecrawl for web data gathering.
+- [Firecrawl LlamaIndex Integration](https://docs.firecrawl.dev/integrations/llamaindex): Integrate Firecrawl with LlamaIndex for web scraping.
+- [Firecrawl Rate Limits](https://docs.firecrawl.dev/rate-limits): Overview of Firecrawl API rate limits and plans.
+- [Firecrawl SDK Overview](https://docs.firecrawl.dev/sdks/overview): Explore official and community SDKs for Firecrawl.
+- [LLM Data Extraction](https://docs.firecrawl.dev/features/llm-extract): Efficiently extract structured data using Firecrawl's LLM features.
+- [Firecrawl Rust SDK](https://docs.firecrawl.dev/v0/sdks/rust): Comprehensive guide for using Firecrawl Rust SDK features.
+- [Self-Hosting Firecrawl](https://docs.firecrawl.dev/contributing/self-host): Instructions for self-hosting Firecrawl with security and customization.
+- [Website Crawling Features](https://docs.firecrawl.dev/v0/features/crawl): Comprehensive website crawling and data extraction features explained.
+- [Data Extraction Features](https://docs.firecrawl.dev/features/extract-beta): Extract structured data from websites using LLMs effectively.
+- [Firecrawl Data Extraction](https://docs.firecrawl.dev/v0/features/extract): Efficiently scrape and extract structured data using Firecrawl.
+- [Firecrawl Go SDK](https://docs.firecrawl.dev/v0/sdks/go): Comprehensive guide for using Firecrawl Go SDK effectively.
+- [Advanced Scraping Guide](https://docs.firecrawl.dev/advanced-scraping-guide): Comprehensive guide for advanced scraping techniques with Firecrawl.
+- [Firecrawl Python SDK](https://docs.firecrawl.dev/v0/sdks/python): Comprehensive guide for using Firecrawl Python SDK effectively.
+- [Firecrawl Node SDK](https://docs.firecrawl.dev/v0/sdks/node): Comprehensive guide for using Firecrawl Node SDK effectively.
+- [Advanced Scraping Guide](https://docs.firecrawl.dev/v0/advanced-scraping-guide): Comprehensive guide on advanced scraping techniques with Firecrawl.
+- [Open Source vs Cloud](https://docs.firecrawl.dev/contributing/open-source-or-cloud): Explore Firecrawl's open source and cloud offerings.
+- [Batch Scraping](https://docs.firecrawl.dev/features/batch-scrape): Batch scrape multiple URLs with Firecrawl's SDK methods.
+- [Firecrawl API Overview](https://docs.firecrawl.dev/api-reference/introduction): Comprehensive guide to Firecrawl API features and usage.
+- [Search Endpoint](https://docs.firecrawl.dev/api-reference/endpoint/search): Search endpoint for querying and scraping web content.
+- [Data Extraction API](https://docs.firecrawl.dev/api-reference/endpoint/extract): API endpoint for extracting data from specified URLs.
+- [Web Scraping API](https://docs.firecrawl.dev/api-reference/endpoint/scrape): API endpoint for scraping web content efficiently.
+- [Map Endpoint](https://docs.firecrawl.dev/api-reference/endpoint/map): API endpoint for mapping URLs with various options.
+- [Firecrawl API Introduction](https://docs.firecrawl.dev/v0/api-reference/introduction): Comprehensive guide to Firecrawl API usage and authentication.
+- [Crawl API Endpoint](https://docs.firecrawl.dev/v0/api-reference/endpoint/crawl): API endpoint for initiating web crawls with options.
+- [Web Scraping API](https://docs.firecrawl.dev/v0/api-reference/endpoint/scrape): API endpoint for scraping web pages with options.
+- [Crawl Job Status](https://docs.firecrawl.dev/api-reference/endpoint/crawl-get): Retrieve the status of a specific crawl job.
+- [Search API](https://docs.firecrawl.dev/v0/api-reference/endpoint/search): Powerful search API for querying and retrieving content.
+- [Batch Scrape API](https://docs.firecrawl.dev/api-reference/endpoint/batch-scrape): Batch scrape multiple URLs with customizable options and webhooks.
