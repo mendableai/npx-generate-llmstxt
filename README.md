@@ -1,10 +1,8 @@
 # generate-llmstxt
 
-A simple NPX package that generates LLMs.txt files using the Firecrawl API. This package creates two files in your specified output directory (defaults to 'public' folder):
+A simple NPX package that generates LLMs.txt files using the Firecrawl API. Specify the URL you want and it creates two files in your specified output directory (defaults to 'public' folder):
 - `llms.txt`: Contains a summary of the LLM-related content
 - `llms-full.txt`: Contains the full text content
-
-It generates the files based on the live version of the website.
 
 ## Usage
 
