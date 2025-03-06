@@ -4,6 +4,8 @@ A simple NPX package that generates LLMs.txt files using the Firecrawl API. This
 - `llms.txt`: Contains a summary of the LLM-related content
 - `llms-full.txt`: Contains the full text content
 
+It generates the files based on the live version of the website.
+
 ## Usage
 
 You can run this package using NPX without installing it. There are two ways to provide your Firecrawl API key:
