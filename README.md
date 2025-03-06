@@ -63,6 +63,10 @@ The package will create two files in your specified output directory (defaults t
 1. `llms.txt`: Contains a summary of the LLM-related content
 2. `llms-full.txt`: Contains the full text content
 
+## Future Improvements
+
+- [ ] Local version
+
 ## License
 
 MIT 
